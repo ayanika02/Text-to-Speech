@@ -1,0 +1,552 @@
+Texts
+You're all caught up!!
+"you can think of an API as a waiter in a restaurant who listens to your order request, goes to the chef, takes the food items ordered and gets back to you with the order"
+"Also, if you want to look for the working of an API with the example, here’s one"
+What is an API?
+is when an API helps two programs or applications to communicate with each other by providing them with the necessary tools and functions
+It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user
+helps software developers to access web tools while a GUI helps to make a program easier to understand for users
+How do APIs Work?
+APIs are considered safe in terms of attacks as it includes authorization credentials and an API gateway to limit access so as to minimize security threats
+"To provide additional security layers to the data, HTTP headers, query string parameters, or cookies are used"
+(Extensible Markup Language)
+How is an API Different From a Web Application?
+The difference between an API and a web application is that API allows two-way communication and web applications are just a way for users to interact through a web browser
+A web application may have an API to complete the requests
+"an open-source interface and can be used by a large number of clients through their phones, tablets, or PCs"
+"In this type of API, the programmers get the local middleware services"
+"TAPI (Telephony Application Programming Interface), and .NET are common examples of Local APIs"
+It makes a remote program appear to be local by making use of RPCs (Remote Procedural Calls)
+SOAP is a well-known example of this type of API
+It defines messages in XML format used by web applications to communicate with each other
+"It makes use of HTTP to GET, POST, PUT, or DELETE data"
+It is basically used to take advantage of the existing data
+It uses JSON for data transfer and is a lightweight remote procedural call defining a few data structure types
+It is based on XML and uses HTTP for data transfer
+This API is widely used to exchange information between two or more networks
+What are REST APIs?
+"Its main feature is that REST API is stateless, i.e., the servers do not save clients’ data between requests"
+What is a Web API?
+Web API Is simply an API for the web
+It is an API that can be accessed using the HTTP protocol
+"It can be built using Java, .nET, etc"
+"It is implemented to extend the functionality of a browser, simplify complex functions, and provide easy syntax to complex code"
+"It permits different data formats such as plain text, HTML, XML, JSON, etc"
+What is API (Application Programming Interface) Integration?
+"API (Application Programming Interface) Integration is the connection between two or more applications, via APIs, letting you exchange data"
+It is a medium through which you can share data and communicate with each other by involving APIs to allow web tools to communicate
+"Due to the rise in cloud-based products, API integration has become very important"
+What is API (Application Programming Interface) Testing?
+"is a kind of software testing that analyzes an API in terms of its functionality, security, performance, and reliability"
+It is very important to test an API so as to check whether it’s working as expected or not
+"If not, again changes are made in the architecture and re-verified"
+APIs are the center of software development to exchange data across applications
+The API testing includes sending requests to single/multiple API endpoints and validating the response
+"It focuses majorly on business logic, data responses and security, and performance bottlenecks"
+How to Create APIs?
+These APIs are only made for a single person or entity (like a company that has spent the resources to make it or bought it)
+Just like the name it gives the authority to use APIs to some partners of entities that own APIs for their private use
+"API produces efficient, quicker, and more reliable results than the outputs produced by human beings in an organization"
+API provides fast and flexible delivery of services according to developers’ requirements
+The best feature of API is that it allows the movement of data between various sites and thus enhances the integrated user experience
+"As API makes use of robotic computers rather than humans, it produces better and more automated results"
+: While using API the developers find new tools and functionality for API exchanges
+Developing and implementing API is costly at times and requires high maintenance and support from developers
+"Using API adds another layer of surface which is then prone to attacks, and hence the security risk problem is common in APIs"
+"it’s working, types, testing tools used, etc"
+"After understanding these concepts, you can try working on them by implementing some of the concepts in projects"
+"Not just theoretical knowledge, you must also have a practical idea of it by working on it"
+Developers must have a deep understanding of APIs in order to implement them
+What API means?
+"Application Programming Interface (API), often referred to as web API, is an interface that allows two systems to communicate with each other (share data and access resources)"
+One of its purposes includes making visible the internal details of how a system works to only those that a programmer finds required
+What are the 4 types of API (Application Programming Interface)?
+What is an example of an API?
+We can take Zomato as an example to explain the concept of an API
+"Zomato receives a request for an order, the customer can track the driver’s location"
+"Here, the API functions in this way- the Zomato app integrates with Google Map where after integration, google maps help you to track the location"
+Which API is most used?
+"The most used APIs are the social media APIs where developers can access data from social media platforms like Facebook, Instagram, etc"
+Each social media has its own API that can be used by developers to interact with the platform’s data
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+This improvement is locked by another user right now.
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+You're all caught up!!
+"you can think of an API as a waiter in a restaurant who listens to your order request, goes to the chef, takes the food items ordered and gets back to you with the order"
+"Also, if you want to look for the working of an API with the example, here’s one"
+What is an API?
+is when an API helps two programs or applications to communicate with each other by providing them with the necessary tools and functions
+It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user
+helps software developers to access web tools while a GUI helps to make a program easier to understand for users
+How do APIs Work?
+APIs are considered safe in terms of attacks as it includes authorization credentials and an API gateway to limit access so as to minimize security threats
+"To provide additional security layers to the data, HTTP headers, query string parameters, or cookies are used"
+(Extensible Markup Language)
+How is an API Different From a Web Application?
+The difference between an API and a web application is that API allows two-way communication and web applications are just a way for users to interact through a web browser
+A web application may have an API to complete the requests
+"an open-source interface and can be used by a large number of clients through their phones, tablets, or PCs"
+"In this type of API, the programmers get the local middleware services"
+"TAPI (Telephony Application Programming Interface), and .NET are common examples of Local APIs"
+It makes a remote program appear to be local by making use of RPCs (Remote Procedural Calls)
+SOAP is a well-known example of this type of API
+It defines messages in XML format used by web applications to communicate with each other
+"It makes use of HTTP to GET, POST, PUT, or DELETE data"
+It is basically used to take advantage of the existing data
+It uses JSON for data transfer and is a lightweight remote procedural call defining a few data structure types
+It is based on XML and uses HTTP for data transfer
+This API is widely used to exchange information between two or more networks
+What are REST APIs?
+"Its main feature is that REST API is stateless, i.e., the servers do not save clients’ data between requests"
+What is a Web API?
+Web API Is simply an API for the web
+It is an API that can be accessed using the HTTP protocol
+"It can be built using Java, .nET, etc"
+"It is implemented to extend the functionality of a browser, simplify complex functions, and provide easy syntax to complex code"
+"It permits different data formats such as plain text, HTML, XML, JSON, etc"
+What is API (Application Programming Interface) Integration?
+"API (Application Programming Interface) Integration is the connection between two or more applications, via APIs, letting you exchange data"
+It is a medium through which you can share data and communicate with each other by involving APIs to allow web tools to communicate
+"Due to the rise in cloud-based products, API integration has become very important"
+What is API (Application Programming Interface) Testing?
+"is a kind of software testing that analyzes an API in terms of its functionality, security, performance, and reliability"
+It is very important to test an API so as to check whether it’s working as expected or not
+"If not, again changes are made in the architecture and re-verified"
+APIs are the center of software development to exchange data across applications
+The API testing includes sending requests to single/multiple API endpoints and validating the response
+"It focuses majorly on business logic, data responses and security, and performance bottlenecks"
+How to Create APIs?
+These APIs are only made for a single person or entity (like a company that has spent the resources to make it or bought it)
+Just like the name it gives the authority to use APIs to some partners of entities that own APIs for their private use
+"API produces efficient, quicker, and more reliable results than the outputs produced by human beings in an organization"
+API provides fast and flexible delivery of services according to developers’ requirements
+The best feature of API is that it allows the movement of data between various sites and thus enhances the integrated user experience
+"As API makes use of robotic computers rather than humans, it produces better and more automated results"
+: While using API the developers find new tools and functionality for API exchanges
+Developing and implementing API is costly at times and requires high maintenance and support from developers
+"Using API adds another layer of surface which is then prone to attacks, and hence the security risk problem is common in APIs"
+"it’s working, types, testing tools used, etc"
+"After understanding these concepts, you can try working on them by implementing some of the concepts in projects"
+"Not just theoretical knowledge, you must also have a practical idea of it by working on it"
+Developers must have a deep understanding of APIs in order to implement them
+What API means?
+"Application Programming Interface (API), often referred to as web API, is an interface that allows two systems to communicate with each other (share data and access resources)"
+One of its purposes includes making visible the internal details of how a system works to only those that a programmer finds required
+What are the 4 types of API (Application Programming Interface)?
+What is an example of an API?
+We can take Zomato as an example to explain the concept of an API
+"Zomato receives a request for an order, the customer can track the driver’s location"
+"Here, the API functions in this way- the Zomato app integrates with Google Map where after integration, google maps help you to track the location"
+Which API is most used?
+"The most used APIs are the social media APIs where developers can access data from social media platforms like Facebook, Instagram, etc"
+Each social media has its own API that can be used by developers to interact with the platform’s data
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+This improvement is locked by another user right now.
+Please go through our recently updated Improvement Guidelines before submitting any improvements.
+Explore reading basics as well as the key role of background knowledge and motivation in becoming a lifelong reader and learner
+Watch our PBS Launching Young Readers series and try our self-paced Reading 101 course to deepen your understanding.
+"Browse our library of evidence-based teaching strategies, learn more about using classroom texts, find out what whole-child literacy instruction looks like, and dive deeper into comprehension, content area literacy, writing, and social-emotional learning."
+Many children need extra support to become skilled readers
+"Learn more about why some kids struggle, what effective interventions look like, how to create inclusive classrooms so every child can thrive, and much more."
+"Meet your favorite book creators, launch an author study, browse our themed booklists, get tips on how to choose and use kids’ books, find guidance on building a more diverse bookshelf, celebrate annual literacy events with us, and more!"
+"Discover how to support your child’s growth as a young reader and writer — with our Reading 101 for Families guide, bilingual parent tips, ideas for building your child’s knowledge of the world, Q&A with experts, and guidance on connecting with your child’s school."
+Text-to-speech (TTS) is a type of assistive technology that reads digital text aloud
+It’s sometimes called “read aloud” technology
+TTS can take words on a computer or other digital device and convert them into audio
+"TTS is very helpful for kids who struggle with reading, but it can also help kids with writing and editing, and even focusing."
+Text-to-speech (TTS) is a type of assistive technology that reads digital text aloud
+It’s sometimes called “read aloud” technology.
+"With a click of a button or the touch of a finger, TTS can take words on a computer or other digital device and convert them into audio"
+TTS is very helpful for kids who struggle with reading
+"But it can also help kids with writing and editing, and even focusing."
+"TTS works with nearly every personal digital device, including computers, smartphones and tablets"
+"All kinds of text files can be read aloud, including Word and Pages documents"
+Even online web pages can be read aloud.
+"The voice in TTS is computer-generated, and reading speed can usually be sped up or slowed down"
+"Voice quality varies, but some voices sound human"
+There are even computer-generated voices that sound like children speaking.
+Many TTS tools highlight words as they are read aloud
+This allows kids to see text and hear it at the same time.
+Some TTS tools also have a technology called optical character recognition (OCR)
+OCR allows TTS tools to read text aloud from images
+"For example, your child could take a photo of a street sign and have the words on the sign turned into audio."
+Print materials in the classroom — like books and handouts — can create obstacles for kids with reading issues
+That’s because some kids struggle with decoding and understanding printed words on the page
+Using digital text with TTS helps remove these barriers.
+"Like audiobooks, TTS won’t slow down the development of your child’s reading skills."
+"It’s important to teach to each student’s individual strengths, skills and needs"
+This is true for all kids — not just kids with learning and attention issues.
+It’s a good idea to start the conversation with your child’s teacher if you think your child would benefit from TTS
+"If your child has an Individualized Education Program (IEP) or a 504 plan, your child has a right to the assistive technology she needs to learn"
+"But even without an IEP or a 504 plan, a school may be willing to provide TTS if it can help your child."
+You can also use TTS at home
+"Try one of the tools above, or check out options for free audiobooks and digital TTS books (opens in a new window)"
+And learn more about assistive technology for reading.
+"This article originally appeared on Understood.org (opens in a new window), a free online resource for parents of children with learning and attention issues"
+"Reprinted courtesy of Understood.org © 2018 Understood, LLC"
+All rights reserved.
+"Reading Rockets is a national public media literacy initiative offering free, research-based information and resources on how young kids learn to read, why so many struggle, and how caring adults can help."
+"Copyright © 2024 WETA Washington, D.C."
+The YubiKey supports the Initiative for Open Authentication (OATH) standards for generating one-time password (OTP)codes
+"Using this application, a YubiKey can be configured with multiple OTP credentials in a manner similar to thatfound in software authenticators"
+"Unlike a software only solution, the credentials are stored in the YubiKey itself andcan roam between your devices"
+"Simply plug the YubiKey into a device that has YubiKey OATH-enabled software, and yourcredentials will be there."
+The YubiKey-generated one-time passcodes can be used as one of the authentication options in your application'stwo-factor or multi-factor authentication workflow
+A 6 or 8 digit passcode is not strong enough to stand on its own; itis often used to augment the user's primary credentials.
+"An OTP is similar to a password, however it can only be used once"
+It is often used in combination with a regularpassword as an additional authentication mechanism providing extra security.
+The OTP code is generated using two inputs: a shared secret and a moving factor
+The secret is a static value that iscreated when you establish a new credential
+"It is only communicated once, and is stored on both the authenticator (theYubiKey) and the authentication server"
+The moving factor changes each time a new OTP is requested
+The way the movingfactor is generated and agreed upon is different for HOTP and TOTP credentials.
+HOTP stands for HMAC-based One-time Password algorithm (HOTP)
+The algorithm is specifiedin RFC 4226.
+It is an event-based OTP where the moving factor is based on a counter
+"Each time the HOTP is requested and validated,the moving factor is incremented based on a counter"
+The code that is generated is valid until you actively requestanother one and the authentication server validates it
+"The OTP generator and the server are synchronized each time thecode is validated, and the user gains access."
+TOTP stands for Time-based One-time Password (TOTP)
+The algorithm is specifiedin RFC 6238.
+The moving factor in a TOTP is time-based rather than counter-based.
+The amount of time in which each password is valid is called a timestep
+"The default timestep is 30 seconds, but it canalso be 15 or 60 seconds"
+"If you have not used your password within that window, it will no longer be valid, and youwill need to request a new one to gain access to your application."
+HOTP credentials do not have an expiration period
+TOTP improves HOTP by using the current time as the moving factor.TOTP credentials have the advantage of being valid for a limited time period  the timestep
+"So if the generated code isnot used within a certain period of seconds, it expires and can not be used for login."
+"TOTP credentials tend to be more secure because they're only valid for a certain period of time, which adds a certainlayer of security"
+The fact of adding an extra factor that needs to be met increases the security of the code
+TOTPs areconsidered an evolved form of HOTPs they imply more security because of having an extra factor to meet the algorithmconditions.
+"Since HOTP doesnt have the time-based limitation, its a little more user-friendly but may be more susceptible to bruteforce attacks"
+Thats because of a potentially longer window in which the HOTP is valid.
+"Also, HOTP can have a synchronization problem"
+"The HOTP counter is incremented each time the button is tapped, while theserver counter is incremented only when a password is successfully validated"
+"For this reason, HOTP validating serversaccept a range of OTPs"
+"Specifically, they will accept an OTP generated by a counter within a set number of incrementsfrom the previous counter value stored on the server"
+This range is the validation window
+"If the token counter isoutside of the window allowed by the server, the validation fails, and the token must be re-synchronized"
+The larger thewindow - the greater the chance of an adversary guessing one of the accepted OTPs through a brute-force attack.
+The HOTP algorithm is practical and sound
+The possible brute force attack can be prevented by careful implementation ofcountermeasures in the validation server.
+"However, given TOTP's advantages over the HOTP protocol, TOTP should be favored whenever possible."
+"When using OATH with a YubiKey, the shared secrets are stored and processed in the YubiKeys secure element"
+This hastwo advantages over software-only solutions:
+Security
+The secrets always stay within the YubiKey
+"A phone can get stolen, sold, infected by malware, have its storage readby a connected computer, etc."
+Accessibility
+You can display OATH codes on more than one phone or computer
+"If your phone runs out of battery, you can get a codeusing a friends phone or your computer."
+All OATH operations can be divided into three groups with related types of functionality:
+Read more about credentials.
+"To build an application that utilizes an OATH functionality, the developer can use theSDK"
+"Make the connection, create aOathSession, then call appropriate methods"
+The OathSession methods are based onlower level commands.
+Read more about OATH Session and the main OATH use case.
+Sample code is also available demonstrating how to use the SDK to perform OATH operations.
+Find out why thousands of customers rely on Varonis to deliver automated outcomes
+""
+Varonis is rated #1 overall in three Gartner Peer Insights markets.
+We’ve talked about giving away your passwords and how you should never do it
+"When a website wants to use the services of another—such as Bitly posting to your Twitter stream—instead of asking you to share your password, they should use a protocol called OAuth instead."
+"It’s important to understand how a program, website, or app might authenticate you as a user – do they have the right permissions? Have you granted them some sort of way of verifying who you are – and accessing data on your behalf? OAuth helps streamline this process: but even with automation, always be aware of how a person or company uses (or stores) your data."
+"OAuth is an open-standard authorization protocol or framework that provides applications the ability for “secure designated access.” For example, you can tell Facebook that it’s OK for ESPN.com to access your profile or post updates to your timeline without having to give ESPN your Facebook password"
+"This minimizes risk in a major way: In the event ESPN suffers a breach, your Facebook password remains safe."
+OAuth doesn’t share password data but instead uses authorization tokens to prove an identity between consumers and service providers
+OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password.
+SAML (Security Assertion Markup Language) is an alternative federated authentication standard that many enterprises use for Single-Sign On (SSO)
+SAML enables enterprises to monitor who has access to corporate resources.
+There are many differences between SAML and OAuth
+"SAML uses XML to pass messages, and OAuth uses JSON"
+"OAuth provides a simpler mobile experience, while SAML is geared towards enterprise security"
+"That last point is a key differentiator: OAuth uses API calls extensively, which is why mobile applications, modern web applications, game consoles, and Internet of Things (IoT) devices find OAuth a better experience for the user"
+"SAML, on the other hand, drops a session cookie in a browser that allows a user to access certain web pages – great for short-lived work days, but not so great when have to log into your thermostat every day."
+Oauth/SAML helps with who is accessing your network but you need Varonis to complete the picture of what they're doing and what sensitive data they're accessing.
+"The simplest example of OAuth in action is one website saying “hey, do you want to log into our website with other website’s login?” In this scenario, the only thing the first website – let’s refer to that website as the consumer – wants to know is that the user is the same user on both websites and has logged in successfully to the service provider – which is the site the user initially logged into, not the consumer."
+Facebook apps are a good OAuth use case example
+"Say you’re using an app on Facebook, and it asks you to share your profile and pictures"
+"Facebook is, in this case, the service provider: it has your login data and your pictures"
+"The app is the consumer, and as the user, you want to use the app to do something with your pictures"
+"You specifically gave this app access to your pictures, which OAuth is managing in the background."
+"Your smart home devices – toaster, thermostat, security system, etc"
+– probably use some kind of login data to sync with each other and allow you to administer them from a browser or client device
+These devices use what OAuth calls confidential authorization
+"That means they hold onto the secret key information, so you don’t have to log in over and over again."
+OAuth is about authorization and not authentication
+Authorization is asking for permission to do stuff
+Authentication is about proving you are the correct person because you know things
+OAuth doesn’t pass authentication data between consumers and service providers – but instead acts as an authorization token of sorts.
+The common analogy I’ve seen used while researching OAuth is the valet key to your car
+The valet key allows the valet to start and move the car but doesn’t give them access to the trunk or the glove box.
+An OAuth token is like that valet key
+"As a user, you get to tell the consumers what they can use and what they can’t use from each service provider"
+You can give each consumer a different valet key
+They never have the full key or any of the private data that gives them access to the full key.
+"There are 3 main players in an OAuth transaction: the user, the consumer, and the service provider.  This triumvirate has been affectionately deemed the OAuth Love Triangle."
+The secret is used to prevent request forgery
+The consumer uses the secret to sign each request so that the service provider can verify it is actually coming from the consumer application.
+This is the scary part. If Bitly were super-shady Evil Co
+"it could pop up a window that looked like Twitter but was really phishing for your username and password.  Always be sure to verify that the URL you’re directed to is actually the service provider (Twitter, in this case)."
+"Twitter marks the request token as “good-to-go,” so when the consumer requests access, it will be accepted (so long as it’s signed using their shared secret)."
+"In our scenario, Joe never had to share his Twitter credentials with Bitly.  He simply delegated access using OAuth in a secure manner.  At any time, Joe can login to Twitter and review the access he has granted and revoke tokens for specific applications without affecting others.  OAuth also allows for granular permission levels.  You can give Bitly the right to post to your Twitter account, but restrict LinkedIn to read-only access."
+"OAuth 2.0 is a complete redesign from OAuth 1.0, and the two are not compatible"
+"If you create a new application today, use OAuth 2.0"
+"This blog only applies to OAuth 2.0, since OAuth 1.0 is deprecated."
+OAuth 2.0 is faster and easier to implement
+"OAuth 1.0 used complicated cryptographic requirements, only supported three flows, and did not scale."
+"OAuth 2.0, on the other hand, has six flows for different types of applications and requirements and enables signed secrets over HTTPS"
+OAuth tokens no longer need to be encrypted on the endpoints in 2.0 since they are encrypted in transit.
+"Hopefully, this was a good primer to get you familiar with OAuth so the next time you see “Sign-in with Twitter” or similar delegated identity verification, you’ll have a good idea of what is going on."
+Schedule a demo with us to see Varonis in action
+We'll personalize the session to your org's data security needs and answer any questions.
+See a sample of our Data Risk Assessment and learn the risks that could be lingering in your environment
+Varonis' DRA is completely free and offers a clear path to automated remediation.
+"Follow us on LinkedIn, YouTube, and X (Twitter) for bite-sized insights on all things data security, including DSPM, threat detection, AI security, and more."
+"Varonis tackles hundreds of use cases, making it the ultimate platform to stop data breaches and ensure compliance."
+REST is an acronym forREpresentationalStateTransfer and an architectural style fordistributed hypermedia systems
+Roy Fielding first presented it in 2000 in his famousdissertation
+Since then it has become one of the most widely used approaches for building web-based APIs (Application Programming Interfaces).
+"REST is not a protocol or a standard, it is an architectural style"
+"During the development phase, API developers can implement REST in a variety of ways."
+"Like the other architectural styles, REST also has its guiding principles and constraints"
+These principles must be satisfied if a service interface has to be referred to asRESTful.
+A Web API (or Web Service) conforming to the REST architectural style is called aREST API (or RESTful API).
+"By applying theprinciple of generalityto the components interface, we can simplify the overall system architecture and improve the visibility of interactions"
+Multiple architectural constraints help in obtaining a uniform interface and guiding the behavior of components.
+"In simpler words, REST defines a consistent and uniform interface for interactions between clients and servers"
+"For example, the HTTP-based REST APIs make use of the standard HTTP methods (GET, POST, PUT, DELETE, etc.) and the URIs (Uniform Resource Identifiers) to identify resources."
+"The client-server design pattern enforces theseparation of concerns, which helps the client and the server components evolve independently."
+"By separating the user interface concerns (client) from the data storage concerns (server), we improve the portability of the user interface across multiple platforms and improve scalability by simplifying the server components."
+"While the client and the server evolve, we have to make sure that the interface/contract between the client and the server does not break."
+Statelessnessmandates that each request from the client to the server must contain all of the information necessary to understand and complete the request.
+The server cannot take advantage of any previously stored context information on the server.
+"For this reason, the client application must entirely keep the session state."
+Thecacheable constraintrequires that a response should implicitly or explicitly label itself as cacheable or non-cacheable.
+"If the response is cacheable, the client application gets the right to reuse the response data later for equivalent requests and a specified period."
+The layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior
+"In a layered system, each component cannot see beyond the immediate layer they are interacting with."
+A layman’s example of a layered system is the MVC pattern
+"The MVC pattern allows for a clear separation of concerns, making it easier to develop, maintain, and scale the application."
+REST also allows client functionality to extend by downloading and executing code in the form of applets or scripts.
+The downloaded code simplifies clients by reducing the number of features required to be pre-implemented
+"Servers can provide part of features delivered to the client in the form of code, and the client only needs to execute the code."
+The keyabstraction of informationin REST is aresource
+Any information that we can name can be a resource
+"For example, a REST resource can be a document or image, a temporal service, a collection of other resources, or a non-virtual object (e.g., a person)."
+A REST API consists of an assembly of interlinked resources
+This set of resources is known as the REST API’sresource model.
+REST usesresource identifiersto identify each resource involved in the interactions between the client and the server components.
+The data format of a representation is known as amedia type
+The media type identifies a specification that defines how a representation is to be processed.
+A RESTful API looks likehypertext
+"Every addressable unit of information carries an address, either explicitly (e.g., link and id attributes) or implicitly (e.g., derived from the media type definition and representation structure)."
+Hypertext (or hypermedia) means thesimultaneous presentation of information and controlssuch that the information becomes the affordance through which the user (or automaton) obtains choices and selects actions.
+Remember that hypertext does not need to be HTML (or XML or JSON) on a browser
+Machines can follow links when they understand the data format and relationship types.
+"Further,resource representations shall be self-descriptive: the client does not need to know if a resource is an employee or a device"
+It should act based on the media type associated with the resource.
+"So in practice, we will create lots ofcustom media types– usually one media type associated with one resource."
+Every media type defines a default processing model
+"For example, HTML defines a rendering process for hypertext and the browser behavior around each element."
+Consider the following REST resource that represents a blog post with links to related resources in an HTTP-based REST API
+"This has the necessary information about the blog post, as well as the hypermedia links to the related resources such as author and comments"
+Clients can follow these links to discover additional information or perform actions.
+Another important thing associated with REST isresource methods
+These resource methods are used to perform the desired transition between two states of any resource.
+"A large number of people wrongly relate resource methods toHTTP methods(i.e., GET/PUT/POST/DELETE)"
+Roy Fielding has never mentioned any recommendation around which method to use in which condition
+All he emphasizes is that it should be auniform interface.
+"For example, if we decide that the application APIs will use HTTP POST for updating a resource – rather than most people recommend HTTP PUT – it’s all right"
+"Still, the application interface will be RESTful."
+"Ideally, everything needed to transition the resource state shall be part of the resource representation – including all the supported methods and what form they will leave the representation."
+"We should enter a REST API with no prior knowledge beyond the initial URI (a bookmark) and a set of standardized media types appropriate for the intended audience (i.e., expected to be understood by any client that might use the API)."
+"From that point on, all application state transitions must be driven by the client selection of server-provided choices present in the received representations or implied by the user’s manipulation of those representations."
+Many people prefer to compare HTTP with REST.REST and HTTP are not the same.
+"Though REST also intends to make the web (internet) more streamlined and standard, Roy Fielding advocates using REST principles more strictly"
+And that’s where people try to start comparing REST with the web.
+"Roy Fielding, in his dissertation, has nowhere mentioned any implementation direction – including any protocol preference or even HTTP"
+"Till the time, we are honoring the six guiding principles of REST, which we can call our interface – RESTful."
+"In simple words, in the REST architectural style, data and functionality are considered resources and are accessed usingUniform Resource Identifiers(URIs)."
+"The resources are acted upon by using a set of simple, well-defined operations"
+"Also, the resources have to be decoupled from their representation so that clients can access the content in various formats, such as HTML, XML, plain text, PDF, JPEG, JSON, and others."
+The clients and servers exchange representations of resources by using a standardized interface and protocol
+"Typically HTTP is the most used protocol, but REST does not mandate it."
+"Metadata about the resource is made available and used to control caching, detect transmission errors, negotiate the appropriate representation format, and perform authentication or access control."
+"And most importantly, every interaction with the server must be stateless."
+"All these principles help RESTful applications to be simple, lightweight, and fast."
+"The sky turned a shade of orange as the sun set behind the mountains, casting long shadows across the empty fields below"
+" Birds chirped noisily as they flew back to their nests, signaling the end of another day"
+" He took a deep breath, feeling the cool breeze brush against his face as he walked down the quiet street"
+" The flowers in the garden swayed gently in the wind, their petals vibrant under the fading light"
+" She stared at the book in front of her, unable to focus as her mind drifted elsewhere"
+" The sound of footsteps echoed through the empty hallway, growing louder with each passing second"
+" A sudden burst of laughter filled the room, breaking the silence that had settled moments before"
+" The dog barked excitedly as its owner approached, wagging its tail furiously in anticipation"
+" She couldn’t help but smile as she watched the children play, their laughter infectious and carefree"
+" He leaned back in his chair, staring out the window at the rain that had just started to fall"
+" The aroma of freshly brewed coffee filled the air, inviting everyone to the kitchen for a warm cup"
+" They gathered around the fire, enjoying the warmth as they shared stories from their past"
+" The ocean waves crashed against the shore, a rhythmic sound that calmed her racing thoughts"
+" He flipped through the pages of the newspaper, barely registering the headlines as he sipped his tea"
+" The music played softly in the background, providing a soothing backdrop to the conversation"
+" She stood at the edge of the cliff, looking out at the vast expanse of water below"
+" The moon hung low in the sky, casting a pale light on the sleeping town"
+" A soft rustle in the bushes caught his attention, but when he looked closer, there was nothing there"
+" The stars twinkled brightly above, filling the sky with a dazzling display of light"
+" They walked through the park, the crunch of leaves underfoot the only sound in the still night"
+" The city lights flickered in the distance, a reminder of the life bustling far away"
+" He tightened his grip on the steering wheel, focusing on the road ahead as the rain poured down in sheets"
+" The scent of pine trees filled the air, a fresh reminder of the forest they had left behind"
+ The sound of waves lapping against the dock was the only thing breaking the silence of the night
+ She twirled her hair absentmindedly as she stared at the flickering candle on the table
+" He could feel the tension in the room as soon as he walked in, a palpable heaviness that hung in the air"
+" The clock on the wall ticked loudly, each second stretching into what felt like an eternity"
+" She watched the snow fall outside, each flake delicate and unique in its descent"
+" He buttoned his coat, bracing himself against the chill that awaited him outside"
+" The train whistle blew, a long, lonely sound that echoed through the empty station"
+" The cat stretched lazily on the windowsill, basking in the warmth of the afternoon sun"
+" She wiped the fog from the mirror, staring at her reflection with a sense of unease"
+" The scent of rain-damp earth rose from the ground, filling his senses as he walked through the park"
+" The old man sat on the bench, feeding the birds that gathered around him eagerly"
+" A soft melody drifted from the open window, carried on the gentle breeze"
+" He stared at the ceiling, counting the cracks in the plaster as he waited for sleep to come"
+" The classroom was silent, the only sound the scratching of pencils on paper as the students took their test"
+" She closed her eyes, letting the music wash over her, each note resonating deep within her soul"
+" The coffee shop was bustling with activity, the hum of conversation blending with the clatter of cups and plates"
+" He stood at the crossroads, unsure of which path to take, each direction leading to an uncertain future"
+" The fire crackled in the hearth, its warmth spreading through the room, chasing away the evening chill"
+" She traced her finger along the map, planning her next adventure to a distant and unfamiliar place"
+" The sun rose slowly over the horizon, painting the sky with hues of pink and gold"
+" He fidgeted nervously in his seat, waiting for the doctor to call his name"
+" The forest was alive with sound, the rustle of leaves and the chirping of birds creating a symphony of nature"
+" The wind howled outside, rattling the windows and shaking the trees with its ferocity"
+" She poured herself a cup of tea, savoring the moment of quiet before the day began"
+" The street was lined with cars, their headlights reflecting off the wet pavement as they passed by"
+" He flipped the coin, watching it spin through the air before landing on heads"
+" The bell rang, signaling the end of class and the beginning of the weekend"
+" She packed her bags, excitement bubbling in her chest as she prepared for her trip"
+" The old house creaked and groaned in the wind, its weathered walls telling stories of the past"
+" He stood at the counter, waiting for his order, the smell of freshly baked bread filling the air"
+" The storm clouds gathered ominously in the distance, a promise of rain to come"
+" She draped the blanket over her shoulders, curling up on the couch with a good book"
+" The city was alive with activity, the sounds of traffic and conversation blending into a familiar hum"
+" He lit a candle, watching the flame dance and flicker in the dimly lit room"
+" The forest floor was soft underfoot, the moss cushioning their steps as they walked in silence"
+" The carnival lights twinkled in the distance, a beacon of fun and excitement on the horizon"
+" She tied her hair back, determined to finish the task at hand before the day was through"
+" The bakery was warm and inviting, the smell of cinnamon and sugar drawing people in from the cold"
+" He stood at the podium, his heart racing as he prepared to deliver his speech"
+" The playground was empty, the swings swaying gently in the breeze, a lonely reminder of the fun once had"
+" The clock struck midnight, and the streets were deserted, save for the occasional passing car"
+" She buttoned her coat and stepped out into the rain, the droplets cool against her skin"
+" The garden was in full bloom, a riot of color and fragrance that filled the air with sweetness"
+" He stared at the blank page in front of him, willing the words to come, but his mind remained empty"
+" The plane flew overhead, its engines roaring as it disappeared into the clouds"
+" She stood at the edge of the dock, watching the sunset paint the sky in hues of orange and pink"
+" The old woman smiled as she rocked in her chair, the memories of a life well-lived playing out in her mind"
+" The streets were busy with people rushing to and fro, their footsteps a constant rhythm on the pavement"
+" He folded the letter carefully, placing it in the envelope with a sense of finality"
+" The rain tapped lightly on the window, a soft melody that lulled her into a state of calm"
+""
+The cat jumped onto the windowsill and stared outside
+ I forgot to buy milk at the grocery store yesterday
+" The sun sets early in winter, making the days feel shorter"
+ My friend just got a new bicycle and loves riding it around the neighborhood
+ I can’t believe how quickly this year has gone by
+" The dog chased its tail in circles, barking happily"
+ She painted the walls of her room a bright yellow color
+" The cookies I baked turned out too crispy, but they still taste good"
+ His backpack was heavy with books and school supplies
+ I always enjoy a good cup of coffee in the morning
+ We decided to take a trip to the beach next weekend
+ The flowers in the garden are starting to bloom
+ He forgot his umbrella and got soaked in the rain
+" My phone battery dies too quickly, and I need to replace it soon"
+ The movie we watched last night was really funny
+ She likes to read mystery novels before bed
+ The playground was full of kids running and playing
+ I need to clean my room before the weekend
+ The pancakes at the diner were fluffy and delicious
+ His handwriting was neat and easy to read
+ The bird outside my window sings every morning
+" I couldn't find my keys anywhere, and I was late"
+" The restaurant was crowded, but the food was worth the wait"
+ She practices piano every day to get better
+ The ice cream truck played its familiar tune as it drove by
+ He built a model airplane from scratch and it actually flew
+" My favorite color is blue, but I like green too"
+" We walked along the river, enjoying the cool breeze"
+ I lost track of time while reading that book
+ She wore a new pair of shoes to the party
+ The clouds looked like cotton candy in the sky
+ He laughed at the silly joke his friend told him
+ The rain made the streets shine like mirrors
+ I accidentally spilled juice on the carpet
+ She loves collecting seashells from the beach
+ His new jacket has a lot of pockets
+ The alarm clock woke me up earlier than usual
+" The library was quiet and peaceful, perfect for studying"
+ I saw a rainbow after the rain stopped
+ She took a picture of the sunset on her phone
+ The cereal box was almost empty this morning
+" He skipped stones across the lake, trying to beat his record"
+ I can't wait to see the new movie coming out next week
+" The car engine made a strange noise, so I took it to the mechanic"
+ She found a four-leaf clover in the park
+ The pizza delivery was faster than expected
+ His glasses fogged up when he walked inside
+ The cat curled up on the couch and fell asleep
+ The smell of fresh bread filled the kitchen
+ I need to remember to water the plants before they dry out
+ The little boy built a sandcastle by the shore
+ She practiced her dance routine over and over
+ The airplane took off smoothly into the clear blue sky
+ I could hear birds chirping in the distance
+ The sweater she knitted is warm and cozy
+ The snowflakes melted as soon as they touched the ground
+ He wrote his name in the sand with a stick
+ The bike ride through the park was refreshing
+ I have to finish my homework before dinner
+ The light in the room flickered for a moment
+ She added extra cheese to her sandwich
+ He made a wish when he blew out the birthday candles
+ The puppy wagged its tail when it saw its owner
+ The waves crashed against the rocks on the shore
+ I forgot to set my alarm last night and overslept
+ She organized her bookshelf by color and size
+ The sound of the wind in the trees was calming
+ He put his headphones on and listened to his favorite music
+ The bakery down the street sells the best muffins
+ I spent all afternoon cleaning the house
+ She wore a scarf because it was chilly outside
+ The fire in the fireplace crackled softly
+ His shoes were covered in mud after walking in the rain
+ I saw a squirrel running up a tree
+ She wrote a letter to her pen pal in another country
+" The coffee shop was busy, but I found a seat by the window"
+ He made a paper airplane and threw it across the room
+" The sky was full of stars, shining brightly"
+ I need to get a haircut before the weekend
+ The soup was hot and comforting on a cold day
+ She gave her friend a handmade bracelet
+ The leaves on the trees are starting to change color
+ I forgot to bring my lunch to work today
+ He wore a funny hat to the costume party
+ The guitar strings were old and needed replacing
+ The park was quiet except for the sound of the birds
+ She folded the laundry and put it away neatly
+ The ice melted in the glass as the drink sat on the table
+ I found an old photo album in the attic
+ The wind made the leaves rustle in the trees
+ She blew out the candles on her birthday cake
+ The flashlight flickered and then went out
+ He built a tower out of blocks and then knocked it over
+" I dropped my phone, but luckily it didn’t crack"
+ She packed her suitcase for the weekend trip
+ The moon was bright in the night sky
+ He whistled a tune as he walked down the street
+ The grass was wet with dew in the early morning
+ She put on her favorite sweater and went outside
+ The car’s headlights lit up the dark road ahead
+""

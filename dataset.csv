@@ -1,0 +1,74 @@
+question,audio_file
+What skills should a good Web Developer have?,audio_0.mp3
+Are you aware of the roles and responsibilities of a Web Developer?,audio_1.mp3
+What are the added benefits of HTTP/2 compared to HTTP 1.1?,audio_2.mp3
+Can you list a few ways to speed up Page Loading?,audio_3.mp3
+How is XHTML different from HTML?,audio_4.mp3
+Explain Webpack.,audio_5.mp3
+"List out newly introduced input types, APIs, form elements, and elements that support media content in HTML5.",audio_6.mp3
+State the difference between span tag and div tag in HTML5.,audio_7.mp3
+Explain HTML5 Web storage.,audio_8.mp3
+Explain DOM (Document Object Model).,audio_9.mp3
+What do you know about pair programming?,audio_10.mp3
+"While building a web application, how do you consider SEO, maintainability, UX, performance, and security?",audio_11.mp3
+State the difference between SVG (Scalable Vector Graphics) and Canvas.,audio_12.mp3
+What is Type Coercion in JavaScript?,audio_13.mp3
+State the difference between <window.onload> and <onDocumentReady>?,audio_14.mp3
+Describe the different kinds of HTTP requests supported by RESTful Web services.,audio_15.mp3
+How does CORS work?,audio_16.mp3
+What is an Entity Tag?,audio_17.mp3
+Can you define what Long Polling is?,audio_18.mp3
+What is DTD and what is the difference between PCDATA and CDATA in DTD?,audio_19.mp3
+What are the APIs that the HTML5 standard provides?,audio_20.mp3
+What is the best way to integrate different style sheets into a website?,audio_21.mp3
+How do you optimize the loading time of your web application as a Web Developer?,audio_22.mp3
+Define NPM (Node Package Manager).,audio_23.mp3
+What are the different popup boxes that are available in JavaScript?,audio_24.mp3
+"Explain the term ""Scope"" in JavaScript and write its different types.",audio_25.mp3
+Can you explain what AJAX is?,audio_26.mp3
+What do you mean by CDN (Content Delivery Network) in jQuery?,audio_27.mp3
+Explain W3C (World Wide Consortium).,audio_28.mp3
+What do you mean by CSS Selectors? Name a Few.,audio_29.mp3
+"In CSS, there are numerous different sorts of selectors. Give some examples.",audio_30.mp3
+How do pseudo-classes work?,audio_31.mp3
+Why are media queries used in CSS?,audio_32.mp3
+State difference between Local Storage and Cookies.,audio_33.mp3
+What is the purpose of Canvas in HTML?,audio_34.mp3
+What is the purpose of closures in JavaScript?,audio_35.mp3
+What is an event loop in Node JS?,audio_36.mp3
+What is a Blocking Code?,audio_37.mp3
+What is the CSS Grid System?,audio_38.mp3
+What are Angular Route Guards?,audio_39.mp3
+Can you compare MongoDB and SQL Databases?,audio_40.mp3
+Are all the Object-Oriented Programming Principles supported in Typescript?,audio_41.mp3
+How to become a web developer?,audio_42.mp3
+What does a web developer do?,audio_43.mp3
+How much time does it require to learn web development?,audio_44.mp3
+What should a web developer know?,audio_45.mp3
+Who should learn web development?,audio_46.mp3
+Do web developers use coding?,audio_47.mp3
+What is the average salary of a web developer in India?,audio_48.mp3
+Why should you be hired for a web development internship?,audio_49.mp3
+State the difference between a web developer and a software developer,audio_50.mp3
+How do you talk about web-development projects in an interview?,audio_51.mp3
+State different types of web development.,audio_52.mp3
+"What is an API, and how is it used in web development?",audio_53.mp3
+Explain the difference between RESTful APIs and SOAP APIs.,audio_54.mp3
+How does CUDA enhance the performance of machine learning models?,audio_55.mp3
+What are the key features of a well-designed REST API?,audio_56.mp3
+Describe a scenario where you would use OAuth for authentication.,audio_57.mp3
+"How does TTS technology work, and what are its applications?",audio_58.mp3
+What are the main advantages of using CUDA for GPU computing?,audio_59.mp3
+Explain how an API gateway can help manage microservices.,audio_60.mp3
+What is the difference between synchronous and asynchronous API calls?,audio_61.mp3
+How would you secure a REST API to protect against unauthorized access?,audio_62.mp3
+Describe the OAuth 2.0 flow and how it ensures secure access.,audio_63.mp3
+How can TTS be integrated into a customer support chatbot?,audio_64.mp3
+What are some challenges associated with scaling a REST API?,audio_65.mp3
+How does CUDA enable parallel computing on NVIDIA GPUs?,audio_66.mp3
+What are the pros and cons of using third-party APIs in your application?,audio_67.mp3
+Explain the significance of token-based authentication in OAuth.,audio_68.mp3
+How can TTS be used to enhance accessibility for users with disabilities?,audio_69.mp3
+What are some common pitfalls to avoid when designing a RESTful API?,audio_70.mp3
+How does OAuth help in delegating access without sharing passwords?,audio_71.mp3
+What are some ways to optimize TTS performance for real-time applications?,audio_72.mp3

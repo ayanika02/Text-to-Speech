@@ -1,0 +1,74 @@
+Questions
+What skills should a good Web Developer have?
+Are you aware of the roles and responsibilities of a Web Developer?
+What are the added benefits of HTTP/2 compared to HTTP 1.1?
+Can you list a few ways to speed up Page Loading?
+How is XHTML different from HTML?
+Explain Webpack.
+"List out newly introduced input types, APIs, form elements, and elements that support media content in HTML5."
+State the difference between span tag and div tag in HTML5.
+Explain HTML5 Web storage.
+Explain DOM (Document Object Model).
+What do you know about pair programming?
+"While building a web application, how do you consider SEO, maintainability, UX, performance, and security?"
+State the difference between SVG (Scalable Vector Graphics) and Canvas.
+What is Type Coercion in JavaScript?
+State the difference between <window.onload> and <onDocumentReady>?
+Describe the different kinds of HTTP requests supported by RESTful Web services.
+How does CORS work?
+What is an Entity Tag?
+Can you define what Long Polling is?
+What is DTD and what is the difference between PCDATA and CDATA in DTD?
+What are the APIs that the HTML5 standard provides?
+What is the best way to integrate different style sheets into a website?
+How do you optimize the loading time of your web application as a Web Developer?
+Define NPM (Node Package Manager).
+What are the different popup boxes that are available in JavaScript?
+"Explain the term ""Scope"" in JavaScript and write its different types."
+Can you explain what AJAX is?
+What do you mean by CDN (Content Delivery Network) in jQuery?
+Explain W3C (World Wide Consortium).
+What do you mean by CSS Selectors? Name a Few.
+"In CSS, there are numerous different sorts of selectors. Give some examples."
+How do pseudo-classes work?
+Why are media queries used in CSS?
+State difference between Local Storage and Cookies.
+What is the purpose of Canvas in HTML?
+What is the purpose of closures in JavaScript?
+What is an event loop in Node JS?
+What is a Blocking Code?
+What is the CSS Grid System?
+What are Angular Route Guards?
+Can you compare MongoDB and SQL Databases?
+Are all the Object-Oriented Programming Principles supported in Typescript?
+How to become a web developer?
+What does a web developer do?
+How much time does it require to learn web development?
+What should a web developer know?
+Who should learn web development?
+Do web developers use coding?
+What is the average salary of a web developer in India?
+Why should you be hired for a web development internship?
+State the difference between a web developer and a software developer
+How do you talk about web-development projects in an interview?
+State different types of web development.
+"What is an API, and how is it used in web development?"
+Explain the difference between RESTful APIs and SOAP APIs.
+How does CUDA enhance the performance of machine learning models?
+What are the key features of a well-designed REST API?
+Describe a scenario where you would use OAuth for authentication.
+"How does TTS technology work, and what are its applications?"
+What are the main advantages of using CUDA for GPU computing?
+Explain how an API gateway can help manage microservices.
+What is the difference between synchronous and asynchronous API calls?
+How would you secure a REST API to protect against unauthorized access?
+Describe the OAuth 2.0 flow and how it ensures secure access.
+How can TTS be integrated into a customer support chatbot?
+What are some challenges associated with scaling a REST API?
+How does CUDA enable parallel computing on NVIDIA GPUs?
+What are the pros and cons of using third-party APIs in your application?
+Explain the significance of token-based authentication in OAuth.
+How can TTS be used to enhance accessibility for users with disabilities?
+What are some common pitfalls to avoid when designing a RESTful API?
+How does OAuth help in delegating access without sharing passwords?
+What are some ways to optimize TTS performance for real-time applications?

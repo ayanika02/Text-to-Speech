@@ -1,0 +1,549 @@
+text,audio
+You're all caught up!!,train_0.mp3
+"you can think of an API as a waiter in a restaurant who listens to your order request, goes to the chef, takes the food items ordered and gets back to you with the order",train_1.mp3
+"Also, if you want to look for the working of an API with the example, here’s one",train_2.mp3
+What is an API?,train_3.mp3
+is when an API helps two programs or applications to communicate with each other by providing them with the necessary tools and functions,train_4.mp3
+It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user,train_5.mp3
+helps software developers to access web tools while a GUI helps to make a program easier to understand for users,train_6.mp3
+How do APIs Work?,train_7.mp3
+APIs are considered safe in terms of attacks as it includes authorization credentials and an API gateway to limit access so as to minimize security threats,train_8.mp3
+"To provide additional security layers to the data, HTTP headers, query string parameters, or cookies are used",train_9.mp3
+(Extensible Markup Language),train_10.mp3
+How is an API Different From a Web Application?,train_11.mp3
+The difference between an API and a web application is that API allows two-way communication and web applications are just a way for users to interact through a web browser,train_12.mp3
+A web application may have an API to complete the requests,train_13.mp3
+"an open-source interface and can be used by a large number of clients through their phones, tablets, or PCs",train_14.mp3
+"In this type of API, the programmers get the local middleware services",train_15.mp3
+"TAPI (Telephony Application Programming Interface), and .NET are common examples of Local APIs",train_16.mp3
+It makes a remote program appear to be local by making use of RPCs (Remote Procedural Calls),train_17.mp3
+SOAP is a well-known example of this type of API,train_18.mp3
+It defines messages in XML format used by web applications to communicate with each other,train_19.mp3
+"It makes use of HTTP to GET, POST, PUT, or DELETE data",train_20.mp3
+It is basically used to take advantage of the existing data,train_21.mp3
+It uses JSON for data transfer and is a lightweight remote procedural call defining a few data structure types,train_22.mp3
+It is based on XML and uses HTTP for data transfer,train_23.mp3
+This API is widely used to exchange information between two or more networks,train_24.mp3
+What are REST APIs?,train_25.mp3
+"Its main feature is that REST API is stateless, i.e., the servers do not save clients’ data between requests",train_26.mp3
+What is a Web API?,train_27.mp3
+Web API Is simply an API for the web,train_28.mp3
+It is an API that can be accessed using the HTTP protocol,train_29.mp3
+"It can be built using Java, .nET, etc",train_30.mp3
+"It is implemented to extend the functionality of a browser, simplify complex functions, and provide easy syntax to complex code",train_31.mp3
+"It permits different data formats such as plain text, HTML, XML, JSON, etc",train_32.mp3
+What is API (Application Programming Interface) Integration?,train_33.mp3
+"API (Application Programming Interface) Integration is the connection between two or more applications, via APIs, letting you exchange data",train_34.mp3
+It is a medium through which you can share data and communicate with each other by involving APIs to allow web tools to communicate,train_35.mp3
+"Due to the rise in cloud-based products, API integration has become very important",train_36.mp3
+What is API (Application Programming Interface) Testing?,train_37.mp3
+"is a kind of software testing that analyzes an API in terms of its functionality, security, performance, and reliability",train_38.mp3
+It is very important to test an API so as to check whether it’s working as expected or not,train_39.mp3
+"If not, again changes are made in the architecture and re-verified",train_40.mp3
+APIs are the center of software development to exchange data across applications,train_41.mp3
+The API testing includes sending requests to single/multiple API endpoints and validating the response,train_42.mp3
+"It focuses majorly on business logic, data responses and security, and performance bottlenecks",train_43.mp3
+How to Create APIs?,train_44.mp3
+These APIs are only made for a single person or entity (like a company that has spent the resources to make it or bought it),train_45.mp3
+Just like the name it gives the authority to use APIs to some partners of entities that own APIs for their private use,train_46.mp3
+"API produces efficient, quicker, and more reliable results than the outputs produced by human beings in an organization",train_47.mp3
+API provides fast and flexible delivery of services according to developers’ requirements,train_48.mp3
+The best feature of API is that it allows the movement of data between various sites and thus enhances the integrated user experience,train_49.mp3
+"As API makes use of robotic computers rather than humans, it produces better and more automated results",train_50.mp3
+: While using API the developers find new tools and functionality for API exchanges,train_51.mp3
+Developing and implementing API is costly at times and requires high maintenance and support from developers,train_52.mp3
+"Using API adds another layer of surface which is then prone to attacks, and hence the security risk problem is common in APIs",train_53.mp3
+"it’s working, types, testing tools used, etc",train_54.mp3
+"After understanding these concepts, you can try working on them by implementing some of the concepts in projects",train_55.mp3
+"Not just theoretical knowledge, you must also have a practical idea of it by working on it",train_56.mp3
+Developers must have a deep understanding of APIs in order to implement them,train_57.mp3
+What API means?,train_58.mp3
+"Application Programming Interface (API), often referred to as web API, is an interface that allows two systems to communicate with each other (share data and access resources)",train_59.mp3
+One of its purposes includes making visible the internal details of how a system works to only those that a programmer finds required,train_60.mp3
+What are the 4 types of API (Application Programming Interface)?,train_61.mp3
+What is an example of an API?,train_62.mp3
+We can take Zomato as an example to explain the concept of an API,train_63.mp3
+"Zomato receives a request for an order, the customer can track the driver’s location",train_64.mp3
+"Here, the API functions in this way- the Zomato app integrates with Google Map where after integration, google maps help you to track the location",train_65.mp3
+Which API is most used?,train_66.mp3
+"The most used APIs are the social media APIs where developers can access data from social media platforms like Facebook, Instagram, etc",train_67.mp3
+Each social media has its own API that can be used by developers to interact with the platform’s data,train_68.mp3
+Please go through our recently updated Improvement Guidelines before submitting any improvements.,train_69.mp3
+This improvement is locked by another user right now.,train_70.mp3
+Please go through our recently updated Improvement Guidelines before submitting any improvements.,train_71.mp3
+You're all caught up!!,train_72.mp3
+"you can think of an API as a waiter in a restaurant who listens to your order request, goes to the chef, takes the food items ordered and gets back to you with the order",train_73.mp3
+"Also, if you want to look for the working of an API with the example, here’s one",train_74.mp3
+What is an API?,train_75.mp3
+is when an API helps two programs or applications to communicate with each other by providing them with the necessary tools and functions,train_76.mp3
+It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user,train_77.mp3
+helps software developers to access web tools while a GUI helps to make a program easier to understand for users,train_78.mp3
+How do APIs Work?,train_79.mp3
+APIs are considered safe in terms of attacks as it includes authorization credentials and an API gateway to limit access so as to minimize security threats,train_80.mp3
+"To provide additional security layers to the data, HTTP headers, query string parameters, or cookies are used",train_81.mp3
+(Extensible Markup Language),train_82.mp3
+How is an API Different From a Web Application?,train_83.mp3
+The difference between an API and a web application is that API allows two-way communication and web applications are just a way for users to interact through a web browser,train_84.mp3
+A web application may have an API to complete the requests,train_85.mp3
+"an open-source interface and can be used by a large number of clients through their phones, tablets, or PCs",train_86.mp3
+"In this type of API, the programmers get the local middleware services",train_87.mp3
+"TAPI (Telephony Application Programming Interface), and .NET are common examples of Local APIs",train_88.mp3
+It makes a remote program appear to be local by making use of RPCs (Remote Procedural Calls),train_89.mp3
+SOAP is a well-known example of this type of API,train_90.mp3
+It defines messages in XML format used by web applications to communicate with each other,train_91.mp3
+"It makes use of HTTP to GET, POST, PUT, or DELETE data",train_92.mp3
+It is basically used to take advantage of the existing data,train_93.mp3
+It uses JSON for data transfer and is a lightweight remote procedural call defining a few data structure types,train_94.mp3
+It is based on XML and uses HTTP for data transfer,train_95.mp3
+This API is widely used to exchange information between two or more networks,train_96.mp3
+What are REST APIs?,train_97.mp3
+"Its main feature is that REST API is stateless, i.e., the servers do not save clients’ data between requests",train_98.mp3
+What is a Web API?,train_99.mp3
+Web API Is simply an API for the web,train_100.mp3
+It is an API that can be accessed using the HTTP protocol,train_101.mp3
+"It can be built using Java, .nET, etc",train_102.mp3
+"It is implemented to extend the functionality of a browser, simplify complex functions, and provide easy syntax to complex code",train_103.mp3
+"It permits different data formats such as plain text, HTML, XML, JSON, etc",train_104.mp3
+What is API (Application Programming Interface) Integration?,train_105.mp3
+"API (Application Programming Interface) Integration is the connection between two or more applications, via APIs, letting you exchange data",train_106.mp3
+It is a medium through which you can share data and communicate with each other by involving APIs to allow web tools to communicate,train_107.mp3
+"Due to the rise in cloud-based products, API integration has become very important",train_108.mp3
+What is API (Application Programming Interface) Testing?,train_109.mp3
+"is a kind of software testing that analyzes an API in terms of its functionality, security, performance, and reliability",train_110.mp3
+It is very important to test an API so as to check whether it’s working as expected or not,train_111.mp3
+"If not, again changes are made in the architecture and re-verified",train_112.mp3
+APIs are the center of software development to exchange data across applications,train_113.mp3
+The API testing includes sending requests to single/multiple API endpoints and validating the response,train_114.mp3
+"It focuses majorly on business logic, data responses and security, and performance bottlenecks",train_115.mp3
+How to Create APIs?,train_116.mp3
+These APIs are only made for a single person or entity (like a company that has spent the resources to make it or bought it),train_117.mp3
+Just like the name it gives the authority to use APIs to some partners of entities that own APIs for their private use,train_118.mp3
+"API produces efficient, quicker, and more reliable results than the outputs produced by human beings in an organization",train_119.mp3
+API provides fast and flexible delivery of services according to developers’ requirements,train_120.mp3
+The best feature of API is that it allows the movement of data between various sites and thus enhances the integrated user experience,train_121.mp3
+"As API makes use of robotic computers rather than humans, it produces better and more automated results",train_122.mp3
+: While using API the developers find new tools and functionality for API exchanges,train_123.mp3
+Developing and implementing API is costly at times and requires high maintenance and support from developers,train_124.mp3
+"Using API adds another layer of surface which is then prone to attacks, and hence the security risk problem is common in APIs",train_125.mp3
+"it’s working, types, testing tools used, etc",train_126.mp3
+"After understanding these concepts, you can try working on them by implementing some of the concepts in projects",train_127.mp3
+"Not just theoretical knowledge, you must also have a practical idea of it by working on it",train_128.mp3
+Developers must have a deep understanding of APIs in order to implement them,train_129.mp3
+What API means?,train_130.mp3
+"Application Programming Interface (API), often referred to as web API, is an interface that allows two systems to communicate with each other (share data and access resources)",train_131.mp3
+One of its purposes includes making visible the internal details of how a system works to only those that a programmer finds required,train_132.mp3
+What are the 4 types of API (Application Programming Interface)?,train_133.mp3
+What is an example of an API?,train_134.mp3
+We can take Zomato as an example to explain the concept of an API,train_135.mp3
+"Zomato receives a request for an order, the customer can track the driver’s location",train_136.mp3
+"Here, the API functions in this way- the Zomato app integrates with Google Map where after integration, google maps help you to track the location",train_137.mp3
+Which API is most used?,train_138.mp3
+"The most used APIs are the social media APIs where developers can access data from social media platforms like Facebook, Instagram, etc",train_139.mp3
+Each social media has its own API that can be used by developers to interact with the platform’s data,train_140.mp3
+Please go through our recently updated Improvement Guidelines before submitting any improvements.,train_141.mp3
+This improvement is locked by another user right now.,train_142.mp3
+Please go through our recently updated Improvement Guidelines before submitting any improvements.,train_143.mp3
+Explore reading basics as well as the key role of background knowledge and motivation in becoming a lifelong reader and learner,train_144.mp3
+Watch our PBS Launching Young Readers series and try our self-paced Reading 101 course to deepen your understanding.,train_145.mp3
+"Browse our library of evidence-based teaching strategies, learn more about using classroom texts, find out what whole-child literacy instruction looks like, and dive deeper into comprehension, content area literacy, writing, and social-emotional learning.",train_146.mp3
+Many children need extra support to become skilled readers,train_147.mp3
+"Learn more about why some kids struggle, what effective interventions look like, how to create inclusive classrooms so every child can thrive, and much more.",train_148.mp3
+"Meet your favorite book creators, launch an author study, browse our themed booklists, get tips on how to choose and use kids’ books, find guidance on building a more diverse bookshelf, celebrate annual literacy events with us, and more!",train_149.mp3
+"Discover how to support your child’s growth as a young reader and writer — with our Reading 101 for Families guide, bilingual parent tips, ideas for building your child’s knowledge of the world, Q&A with experts, and guidance on connecting with your child’s school.",train_150.mp3
+Text-to-speech (TTS) is a type of assistive technology that reads digital text aloud,train_151.mp3
+It’s sometimes called “read aloud” technology,train_152.mp3
+TTS can take words on a computer or other digital device and convert them into audio,train_153.mp3
+"TTS is very helpful for kids who struggle with reading, but it can also help kids with writing and editing, and even focusing.",train_154.mp3
+Text-to-speech (TTS) is a type of assistive technology that reads digital text aloud,train_155.mp3
+It’s sometimes called “read aloud” technology.,train_156.mp3
+"With a click of a button or the touch of a finger, TTS can take words on a computer or other digital device and convert them into audio",train_157.mp3
+TTS is very helpful for kids who struggle with reading,train_158.mp3
+"But it can also help kids with writing and editing, and even focusing.",train_159.mp3
+"TTS works with nearly every personal digital device, including computers, smartphones and tablets",train_160.mp3
+"All kinds of text files can be read aloud, including Word and Pages documents",train_161.mp3
+Even online web pages can be read aloud.,train_162.mp3
+"The voice in TTS is computer-generated, and reading speed can usually be sped up or slowed down",train_163.mp3
+"Voice quality varies, but some voices sound human",train_164.mp3
+There are even computer-generated voices that sound like children speaking.,train_165.mp3
+Many TTS tools highlight words as they are read aloud,train_166.mp3
+This allows kids to see text and hear it at the same time.,train_167.mp3
+Some TTS tools also have a technology called optical character recognition (OCR),train_168.mp3
+OCR allows TTS tools to read text aloud from images,train_169.mp3
+"For example, your child could take a photo of a street sign and have the words on the sign turned into audio.",train_170.mp3
+Print materials in the classroom — like books and handouts — can create obstacles for kids with reading issues,train_171.mp3
+That’s because some kids struggle with decoding and understanding printed words on the page,train_172.mp3
+Using digital text with TTS helps remove these barriers.,train_173.mp3
+"Like audiobooks, TTS won’t slow down the development of your child’s reading skills.",train_174.mp3
+"It’s important to teach to each student’s individual strengths, skills and needs",train_175.mp3
+This is true for all kids — not just kids with learning and attention issues.,train_176.mp3
+It’s a good idea to start the conversation with your child’s teacher if you think your child would benefit from TTS,train_177.mp3
+"If your child has an Individualized Education Program (IEP) or a 504 plan, your child has a right to the assistive technology she needs to learn",train_178.mp3
+"But even without an IEP or a 504 plan, a school may be willing to provide TTS if it can help your child.",train_179.mp3
+You can also use TTS at home,train_180.mp3
+"Try one of the tools above, or check out options for free audiobooks and digital TTS books (opens in a new window)",train_181.mp3
+And learn more about assistive technology for reading.,train_182.mp3
+"This article originally appeared on Understood.org (opens in a new window), a free online resource for parents of children with learning and attention issues",train_183.mp3
+"Reprinted courtesy of Understood.org © 2018 Understood, LLC",train_184.mp3
+All rights reserved.,train_185.mp3
+"Reading Rockets is a national public media literacy initiative offering free, research-based information and resources on how young kids learn to read, why so many struggle, and how caring adults can help.",train_186.mp3
+"Copyright © 2024 WETA Washington, D.C.",train_187.mp3
+The YubiKey supports the Initiative for Open Authentication (OATH) standards for generating one-time password (OTP)codes,train_188.mp3
+"Using this application, a YubiKey can be configured with multiple OTP credentials in a manner similar to thatfound in software authenticators",train_189.mp3
+"Unlike a software only solution, the credentials are stored in the YubiKey itself andcan roam between your devices",train_190.mp3
+"Simply plug the YubiKey into a device that has YubiKey OATH-enabled software, and yourcredentials will be there.",train_191.mp3
+The YubiKey-generated one-time passcodes can be used as one of the authentication options in your application'stwo-factor or multi-factor authentication workflow,train_192.mp3
+A 6 or 8 digit passcode is not strong enough to stand on its own; itis often used to augment the user's primary credentials.,train_193.mp3
+"An OTP is similar to a password, however it can only be used once",train_194.mp3
+It is often used in combination with a regularpassword as an additional authentication mechanism providing extra security.,train_195.mp3
+The OTP code is generated using two inputs: a shared secret and a moving factor,train_196.mp3
+The secret is a static value that iscreated when you establish a new credential,train_197.mp3
+"It is only communicated once, and is stored on both the authenticator (theYubiKey) and the authentication server",train_198.mp3
+The moving factor changes each time a new OTP is requested,train_199.mp3
+The way the movingfactor is generated and agreed upon is different for HOTP and TOTP credentials.,train_200.mp3
+HOTP stands for HMAC-based One-time Password algorithm (HOTP),train_201.mp3
+The algorithm is specifiedin RFC 4226.,train_202.mp3
+It is an event-based OTP where the moving factor is based on a counter,train_203.mp3
+"Each time the HOTP is requested and validated,the moving factor is incremented based on a counter",train_204.mp3
+The code that is generated is valid until you actively requestanother one and the authentication server validates it,train_205.mp3
+"The OTP generator and the server are synchronized each time thecode is validated, and the user gains access.",train_206.mp3
+TOTP stands for Time-based One-time Password (TOTP),train_207.mp3
+The algorithm is specifiedin RFC 6238.,train_208.mp3
+The moving factor in a TOTP is time-based rather than counter-based.,train_209.mp3
+The amount of time in which each password is valid is called a timestep,train_210.mp3
+"The default timestep is 30 seconds, but it canalso be 15 or 60 seconds",train_211.mp3
+"If you have not used your password within that window, it will no longer be valid, and youwill need to request a new one to gain access to your application.",train_212.mp3
+HOTP credentials do not have an expiration period,train_213.mp3
+TOTP improves HOTP by using the current time as the moving factor.TOTP credentials have the advantage of being valid for a limited time period  the timestep,train_214.mp3
+"So if the generated code isnot used within a certain period of seconds, it expires and can not be used for login.",train_215.mp3
+"TOTP credentials tend to be more secure because they're only valid for a certain period of time, which adds a certainlayer of security",train_216.mp3
+The fact of adding an extra factor that needs to be met increases the security of the code,train_217.mp3
+TOTPs areconsidered an evolved form of HOTPs they imply more security because of having an extra factor to meet the algorithmconditions.,train_218.mp3
+"Since HOTP doesnt have the time-based limitation, its a little more user-friendly but may be more susceptible to bruteforce attacks",train_219.mp3
+Thats because of a potentially longer window in which the HOTP is valid.,train_220.mp3
+"Also, HOTP can have a synchronization problem",train_221.mp3
+"The HOTP counter is incremented each time the button is tapped, while theserver counter is incremented only when a password is successfully validated",train_222.mp3
+"For this reason, HOTP validating serversaccept a range of OTPs",train_223.mp3
+"Specifically, they will accept an OTP generated by a counter within a set number of incrementsfrom the previous counter value stored on the server",train_224.mp3
+This range is the validation window,train_225.mp3
+"If the token counter isoutside of the window allowed by the server, the validation fails, and the token must be re-synchronized",train_226.mp3
+The larger thewindow - the greater the chance of an adversary guessing one of the accepted OTPs through a brute-force attack.,train_227.mp3
+The HOTP algorithm is practical and sound,train_228.mp3
+The possible brute force attack can be prevented by careful implementation ofcountermeasures in the validation server.,train_229.mp3
+"However, given TOTP's advantages over the HOTP protocol, TOTP should be favored whenever possible.",train_230.mp3
+"When using OATH with a YubiKey, the shared secrets are stored and processed in the YubiKeys secure element",train_231.mp3
+This hastwo advantages over software-only solutions:,train_232.mp3
+Security,train_233.mp3
+The secrets always stay within the YubiKey,train_234.mp3
+"A phone can get stolen, sold, infected by malware, have its storage readby a connected computer, etc.",train_235.mp3
+Accessibility,train_236.mp3
+You can display OATH codes on more than one phone or computer,train_237.mp3
+"If your phone runs out of battery, you can get a codeusing a friends phone or your computer.",train_238.mp3
+All OATH operations can be divided into three groups with related types of functionality:,train_239.mp3
+Read more about credentials.,train_240.mp3
+"To build an application that utilizes an OATH functionality, the developer can use theSDK",train_241.mp3
+"Make the connection, create aOathSession, then call appropriate methods",train_242.mp3
+The OathSession methods are based onlower level commands.,train_243.mp3
+Read more about OATH Session and the main OATH use case.,train_244.mp3
+Sample code is also available demonstrating how to use the SDK to perform OATH operations.,train_245.mp3
+Find out why thousands of customers rely on Varonis to deliver automated outcomes,train_246.mp3
+Varonis is rated #1 overall in three Gartner Peer Insights markets.,train_248.mp3
+We’ve talked about giving away your passwords and how you should never do it,train_249.mp3
+"When a website wants to use the services of another—such as Bitly posting to your Twitter stream—instead of asking you to share your password, they should use a protocol called OAuth instead.",train_250.mp3
+"It’s important to understand how a program, website, or app might authenticate you as a user – do they have the right permissions? Have you granted them some sort of way of verifying who you are – and accessing data on your behalf? OAuth helps streamline this process: but even with automation, always be aware of how a person or company uses (or stores) your data.",train_251.mp3
+"OAuth is an open-standard authorization protocol or framework that provides applications the ability for “secure designated access.” For example, you can tell Facebook that it’s OK for ESPN.com to access your profile or post updates to your timeline without having to give ESPN your Facebook password",train_252.mp3
+"This minimizes risk in a major way: In the event ESPN suffers a breach, your Facebook password remains safe.",train_253.mp3
+OAuth doesn’t share password data but instead uses authorization tokens to prove an identity between consumers and service providers,train_254.mp3
+OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password.,train_255.mp3
+SAML (Security Assertion Markup Language) is an alternative federated authentication standard that many enterprises use for Single-Sign On (SSO),train_256.mp3
+SAML enables enterprises to monitor who has access to corporate resources.,train_257.mp3
+There are many differences between SAML and OAuth,train_258.mp3
+"SAML uses XML to pass messages, and OAuth uses JSON",train_259.mp3
+"OAuth provides a simpler mobile experience, while SAML is geared towards enterprise security",train_260.mp3
+"That last point is a key differentiator: OAuth uses API calls extensively, which is why mobile applications, modern web applications, game consoles, and Internet of Things (IoT) devices find OAuth a better experience for the user",train_261.mp3
+"SAML, on the other hand, drops a session cookie in a browser that allows a user to access certain web pages – great for short-lived work days, but not so great when have to log into your thermostat every day.",train_262.mp3
+Oauth/SAML helps with who is accessing your network but you need Varonis to complete the picture of what they're doing and what sensitive data they're accessing.,train_263.mp3
+"The simplest example of OAuth in action is one website saying “hey, do you want to log into our website with other website’s login?” In this scenario, the only thing the first website – let’s refer to that website as the consumer – wants to know is that the user is the same user on both websites and has logged in successfully to the service provider – which is the site the user initially logged into, not the consumer.",train_264.mp3
+Facebook apps are a good OAuth use case example,train_265.mp3
+"Say you’re using an app on Facebook, and it asks you to share your profile and pictures",train_266.mp3
+"Facebook is, in this case, the service provider: it has your login data and your pictures",train_267.mp3
+"The app is the consumer, and as the user, you want to use the app to do something with your pictures",train_268.mp3
+"You specifically gave this app access to your pictures, which OAuth is managing in the background.",train_269.mp3
+"Your smart home devices – toaster, thermostat, security system, etc",train_270.mp3
+– probably use some kind of login data to sync with each other and allow you to administer them from a browser or client device,train_271.mp3
+These devices use what OAuth calls confidential authorization,train_272.mp3
+"That means they hold onto the secret key information, so you don’t have to log in over and over again.",train_273.mp3
+OAuth is about authorization and not authentication,train_274.mp3
+Authorization is asking for permission to do stuff,train_275.mp3
+Authentication is about proving you are the correct person because you know things,train_276.mp3
+OAuth doesn’t pass authentication data between consumers and service providers – but instead acts as an authorization token of sorts.,train_277.mp3
+The common analogy I’ve seen used while researching OAuth is the valet key to your car,train_278.mp3
+The valet key allows the valet to start and move the car but doesn’t give them access to the trunk or the glove box.,train_279.mp3
+An OAuth token is like that valet key,train_280.mp3
+"As a user, you get to tell the consumers what they can use and what they can’t use from each service provider",train_281.mp3
+You can give each consumer a different valet key,train_282.mp3
+They never have the full key or any of the private data that gives them access to the full key.,train_283.mp3
+"There are 3 main players in an OAuth transaction: the user, the consumer, and the service provider.  This triumvirate has been affectionately deemed the OAuth Love Triangle.",train_284.mp3
+The secret is used to prevent request forgery,train_285.mp3
+The consumer uses the secret to sign each request so that the service provider can verify it is actually coming from the consumer application.,train_286.mp3
+This is the scary part. If Bitly were super-shady Evil Co,train_287.mp3
+"it could pop up a window that looked like Twitter but was really phishing for your username and password.  Always be sure to verify that the URL you’re directed to is actually the service provider (Twitter, in this case).",train_288.mp3
+"Twitter marks the request token as “good-to-go,” so when the consumer requests access, it will be accepted (so long as it’s signed using their shared secret).",train_289.mp3
+"In our scenario, Joe never had to share his Twitter credentials with Bitly.  He simply delegated access using OAuth in a secure manner.  At any time, Joe can login to Twitter and review the access he has granted and revoke tokens for specific applications without affecting others.  OAuth also allows for granular permission levels.  You can give Bitly the right to post to your Twitter account, but restrict LinkedIn to read-only access.",train_290.mp3
+"OAuth 2.0 is a complete redesign from OAuth 1.0, and the two are not compatible",train_291.mp3
+"If you create a new application today, use OAuth 2.0",train_292.mp3
+"This blog only applies to OAuth 2.0, since OAuth 1.0 is deprecated.",train_293.mp3
+OAuth 2.0 is faster and easier to implement,train_294.mp3
+"OAuth 1.0 used complicated cryptographic requirements, only supported three flows, and did not scale.",train_295.mp3
+"OAuth 2.0, on the other hand, has six flows for different types of applications and requirements and enables signed secrets over HTTPS",train_296.mp3
+OAuth tokens no longer need to be encrypted on the endpoints in 2.0 since they are encrypted in transit.,train_297.mp3
+"Hopefully, this was a good primer to get you familiar with OAuth so the next time you see “Sign-in with Twitter” or similar delegated identity verification, you’ll have a good idea of what is going on.",train_298.mp3
+Schedule a demo with us to see Varonis in action,train_299.mp3
+We'll personalize the session to your org's data security needs and answer any questions.,train_300.mp3
+See a sample of our Data Risk Assessment and learn the risks that could be lingering in your environment,train_301.mp3
+Varonis' DRA is completely free and offers a clear path to automated remediation.,train_302.mp3
+"Follow us on LinkedIn, YouTube, and X (Twitter) for bite-sized insights on all things data security, including DSPM, threat detection, AI security, and more.",train_303.mp3
+"Varonis tackles hundreds of use cases, making it the ultimate platform to stop data breaches and ensure compliance.",train_304.mp3
+REST is an acronym forREpresentationalStateTransfer and an architectural style fordistributed hypermedia systems,train_305.mp3
+Roy Fielding first presented it in 2000 in his famousdissertation,train_306.mp3
+Since then it has become one of the most widely used approaches for building web-based APIs (Application Programming Interfaces).,train_307.mp3
+"REST is not a protocol or a standard, it is an architectural style",train_308.mp3
+"During the development phase, API developers can implement REST in a variety of ways.",train_309.mp3
+"Like the other architectural styles, REST also has its guiding principles and constraints",train_310.mp3
+These principles must be satisfied if a service interface has to be referred to asRESTful.,train_311.mp3
+A Web API (or Web Service) conforming to the REST architectural style is called aREST API (or RESTful API).,train_312.mp3
+"By applying theprinciple of generalityto the components interface, we can simplify the overall system architecture and improve the visibility of interactions",train_313.mp3
+Multiple architectural constraints help in obtaining a uniform interface and guiding the behavior of components.,train_314.mp3
+"In simpler words, REST defines a consistent and uniform interface for interactions between clients and servers",train_315.mp3
+"For example, the HTTP-based REST APIs make use of the standard HTTP methods (GET, POST, PUT, DELETE, etc.) and the URIs (Uniform Resource Identifiers) to identify resources.",train_316.mp3
+"The client-server design pattern enforces theseparation of concerns, which helps the client and the server components evolve independently.",train_317.mp3
+"By separating the user interface concerns (client) from the data storage concerns (server), we improve the portability of the user interface across multiple platforms and improve scalability by simplifying the server components.",train_318.mp3
+"While the client and the server evolve, we have to make sure that the interface/contract between the client and the server does not break.",train_319.mp3
+Statelessnessmandates that each request from the client to the server must contain all of the information necessary to understand and complete the request.,train_320.mp3
+The server cannot take advantage of any previously stored context information on the server.,train_321.mp3
+"For this reason, the client application must entirely keep the session state.",train_322.mp3
+Thecacheable constraintrequires that a response should implicitly or explicitly label itself as cacheable or non-cacheable.,train_323.mp3
+"If the response is cacheable, the client application gets the right to reuse the response data later for equivalent requests and a specified period.",train_324.mp3
+The layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior,train_325.mp3
+"In a layered system, each component cannot see beyond the immediate layer they are interacting with.",train_326.mp3
+A layman’s example of a layered system is the MVC pattern,train_327.mp3
+"The MVC pattern allows for a clear separation of concerns, making it easier to develop, maintain, and scale the application.",train_328.mp3
+REST also allows client functionality to extend by downloading and executing code in the form of applets or scripts.,train_329.mp3
+The downloaded code simplifies clients by reducing the number of features required to be pre-implemented,train_330.mp3
+"Servers can provide part of features delivered to the client in the form of code, and the client only needs to execute the code.",train_331.mp3
+The keyabstraction of informationin REST is aresource,train_332.mp3
+Any information that we can name can be a resource,train_333.mp3
+"For example, a REST resource can be a document or image, a temporal service, a collection of other resources, or a non-virtual object (e.g., a person).",train_334.mp3
+A REST API consists of an assembly of interlinked resources,train_335.mp3
+This set of resources is known as the REST API’sresource model.,train_336.mp3
+REST usesresource identifiersto identify each resource involved in the interactions between the client and the server components.,train_337.mp3
+The data format of a representation is known as amedia type,train_338.mp3
+The media type identifies a specification that defines how a representation is to be processed.,train_339.mp3
+A RESTful API looks likehypertext,train_340.mp3
+"Every addressable unit of information carries an address, either explicitly (e.g., link and id attributes) or implicitly (e.g., derived from the media type definition and representation structure).",train_341.mp3
+Hypertext (or hypermedia) means thesimultaneous presentation of information and controlssuch that the information becomes the affordance through which the user (or automaton) obtains choices and selects actions.,train_342.mp3
+Remember that hypertext does not need to be HTML (or XML or JSON) on a browser,train_343.mp3
+Machines can follow links when they understand the data format and relationship types.,train_344.mp3
+"Further,resource representations shall be self-descriptive: the client does not need to know if a resource is an employee or a device",train_345.mp3
+It should act based on the media type associated with the resource.,train_346.mp3
+"So in practice, we will create lots ofcustom media types– usually one media type associated with one resource.",train_347.mp3
+Every media type defines a default processing model,train_348.mp3
+"For example, HTML defines a rendering process for hypertext and the browser behavior around each element.",train_349.mp3
+Consider the following REST resource that represents a blog post with links to related resources in an HTTP-based REST API,train_350.mp3
+"This has the necessary information about the blog post, as well as the hypermedia links to the related resources such as author and comments",train_351.mp3
+Clients can follow these links to discover additional information or perform actions.,train_352.mp3
+Another important thing associated with REST isresource methods,train_353.mp3
+These resource methods are used to perform the desired transition between two states of any resource.,train_354.mp3
+"A large number of people wrongly relate resource methods toHTTP methods(i.e., GET/PUT/POST/DELETE)",train_355.mp3
+Roy Fielding has never mentioned any recommendation around which method to use in which condition,train_356.mp3
+All he emphasizes is that it should be auniform interface.,train_357.mp3
+"For example, if we decide that the application APIs will use HTTP POST for updating a resource – rather than most people recommend HTTP PUT – it’s all right",train_358.mp3
+"Still, the application interface will be RESTful.",train_359.mp3
+"Ideally, everything needed to transition the resource state shall be part of the resource representation – including all the supported methods and what form they will leave the representation.",train_360.mp3
+"We should enter a REST API with no prior knowledge beyond the initial URI (a bookmark) and a set of standardized media types appropriate for the intended audience (i.e., expected to be understood by any client that might use the API).",train_361.mp3
+"From that point on, all application state transitions must be driven by the client selection of server-provided choices present in the received representations or implied by the user’s manipulation of those representations.",train_362.mp3
+Many people prefer to compare HTTP with REST.REST and HTTP are not the same.,train_363.mp3
+"Though REST also intends to make the web (internet) more streamlined and standard, Roy Fielding advocates using REST principles more strictly",train_364.mp3
+And that’s where people try to start comparing REST with the web.,train_365.mp3
+"Roy Fielding, in his dissertation, has nowhere mentioned any implementation direction – including any protocol preference or even HTTP",train_366.mp3
+"Till the time, we are honoring the six guiding principles of REST, which we can call our interface – RESTful.",train_367.mp3
+"In simple words, in the REST architectural style, data and functionality are considered resources and are accessed usingUniform Resource Identifiers(URIs).",train_368.mp3
+"The resources are acted upon by using a set of simple, well-defined operations",train_369.mp3
+"Also, the resources have to be decoupled from their representation so that clients can access the content in various formats, such as HTML, XML, plain text, PDF, JPEG, JSON, and others.",train_370.mp3
+The clients and servers exchange representations of resources by using a standardized interface and protocol,train_371.mp3
+"Typically HTTP is the most used protocol, but REST does not mandate it.",train_372.mp3
+"Metadata about the resource is made available and used to control caching, detect transmission errors, negotiate the appropriate representation format, and perform authentication or access control.",train_373.mp3
+"And most importantly, every interaction with the server must be stateless.",train_374.mp3
+"All these principles help RESTful applications to be simple, lightweight, and fast.",train_375.mp3
+"The sky turned a shade of orange as the sun set behind the mountains, casting long shadows across the empty fields below",train_376.mp3
+" Birds chirped noisily as they flew back to their nests, signaling the end of another day",train_377.mp3
+" He took a deep breath, feeling the cool breeze brush against his face as he walked down the quiet street",train_378.mp3
+" The flowers in the garden swayed gently in the wind, their petals vibrant under the fading light",train_379.mp3
+" She stared at the book in front of her, unable to focus as her mind drifted elsewhere",train_380.mp3
+" The sound of footsteps echoed through the empty hallway, growing louder with each passing second",train_381.mp3
+" A sudden burst of laughter filled the room, breaking the silence that had settled moments before",train_382.mp3
+" The dog barked excitedly as its owner approached, wagging its tail furiously in anticipation",train_383.mp3
+" She couldn’t help but smile as she watched the children play, their laughter infectious and carefree",train_384.mp3
+" He leaned back in his chair, staring out the window at the rain that had just started to fall",train_385.mp3
+" The aroma of freshly brewed coffee filled the air, inviting everyone to the kitchen for a warm cup",train_386.mp3
+" They gathered around the fire, enjoying the warmth as they shared stories from their past",train_387.mp3
+" The ocean waves crashed against the shore, a rhythmic sound that calmed her racing thoughts",train_388.mp3
+" He flipped through the pages of the newspaper, barely registering the headlines as he sipped his tea",train_389.mp3
+" The music played softly in the background, providing a soothing backdrop to the conversation",train_390.mp3
+" She stood at the edge of the cliff, looking out at the vast expanse of water below",train_391.mp3
+" The moon hung low in the sky, casting a pale light on the sleeping town",train_392.mp3
+" A soft rustle in the bushes caught his attention, but when he looked closer, there was nothing there",train_393.mp3
+" The stars twinkled brightly above, filling the sky with a dazzling display of light",train_394.mp3
+" They walked through the park, the crunch of leaves underfoot the only sound in the still night",train_395.mp3
+" The city lights flickered in the distance, a reminder of the life bustling far away",train_396.mp3
+" He tightened his grip on the steering wheel, focusing on the road ahead as the rain poured down in sheets",train_397.mp3
+" The scent of pine trees filled the air, a fresh reminder of the forest they had left behind",train_398.mp3
+ The sound of waves lapping against the dock was the only thing breaking the silence of the night,train_399.mp3
+ She twirled her hair absentmindedly as she stared at the flickering candle on the table,train_400.mp3
+" He could feel the tension in the room as soon as he walked in, a palpable heaviness that hung in the air",train_401.mp3
+" The clock on the wall ticked loudly, each second stretching into what felt like an eternity",train_402.mp3
+" She watched the snow fall outside, each flake delicate and unique in its descent",train_403.mp3
+" He buttoned his coat, bracing himself against the chill that awaited him outside",train_404.mp3
+" The train whistle blew, a long, lonely sound that echoed through the empty station",train_405.mp3
+" The cat stretched lazily on the windowsill, basking in the warmth of the afternoon sun",train_406.mp3
+" She wiped the fog from the mirror, staring at her reflection with a sense of unease",train_407.mp3
+" The scent of rain-damp earth rose from the ground, filling his senses as he walked through the park",train_408.mp3
+" The old man sat on the bench, feeding the birds that gathered around him eagerly",train_409.mp3
+" A soft melody drifted from the open window, carried on the gentle breeze",train_410.mp3
+" He stared at the ceiling, counting the cracks in the plaster as he waited for sleep to come",train_411.mp3
+" The classroom was silent, the only sound the scratching of pencils on paper as the students took their test",train_412.mp3
+" She closed her eyes, letting the music wash over her, each note resonating deep within her soul",train_413.mp3
+" The coffee shop was bustling with activity, the hum of conversation blending with the clatter of cups and plates",train_414.mp3
+" He stood at the crossroads, unsure of which path to take, each direction leading to an uncertain future",train_415.mp3
+" The fire crackled in the hearth, its warmth spreading through the room, chasing away the evening chill",train_416.mp3
+" She traced her finger along the map, planning her next adventure to a distant and unfamiliar place",train_417.mp3
+" The sun rose slowly over the horizon, painting the sky with hues of pink and gold",train_418.mp3
+" He fidgeted nervously in his seat, waiting for the doctor to call his name",train_419.mp3
+" The forest was alive with sound, the rustle of leaves and the chirping of birds creating a symphony of nature",train_420.mp3
+" The wind howled outside, rattling the windows and shaking the trees with its ferocity",train_421.mp3
+" She poured herself a cup of tea, savoring the moment of quiet before the day began",train_422.mp3
+" The street was lined with cars, their headlights reflecting off the wet pavement as they passed by",train_423.mp3
+" He flipped the coin, watching it spin through the air before landing on heads",train_424.mp3
+" The bell rang, signaling the end of class and the beginning of the weekend",train_425.mp3
+" She packed her bags, excitement bubbling in her chest as she prepared for her trip",train_426.mp3
+" The old house creaked and groaned in the wind, its weathered walls telling stories of the past",train_427.mp3
+" He stood at the counter, waiting for his order, the smell of freshly baked bread filling the air",train_428.mp3
+" The storm clouds gathered ominously in the distance, a promise of rain to come",train_429.mp3
+" She draped the blanket over her shoulders, curling up on the couch with a good book",train_430.mp3
+" The city was alive with activity, the sounds of traffic and conversation blending into a familiar hum",train_431.mp3
+" He lit a candle, watching the flame dance and flicker in the dimly lit room",train_432.mp3
+" The forest floor was soft underfoot, the moss cushioning their steps as they walked in silence",train_433.mp3
+" The carnival lights twinkled in the distance, a beacon of fun and excitement on the horizon",train_434.mp3
+" She tied her hair back, determined to finish the task at hand before the day was through",train_435.mp3
+" The bakery was warm and inviting, the smell of cinnamon and sugar drawing people in from the cold",train_436.mp3
+" He stood at the podium, his heart racing as he prepared to deliver his speech",train_437.mp3
+" The playground was empty, the swings swaying gently in the breeze, a lonely reminder of the fun once had",train_438.mp3
+" The clock struck midnight, and the streets were deserted, save for the occasional passing car",train_439.mp3
+" She buttoned her coat and stepped out into the rain, the droplets cool against her skin",train_440.mp3
+" The garden was in full bloom, a riot of color and fragrance that filled the air with sweetness",train_441.mp3
+" He stared at the blank page in front of him, willing the words to come, but his mind remained empty",train_442.mp3
+" The plane flew overhead, its engines roaring as it disappeared into the clouds",train_443.mp3
+" She stood at the edge of the dock, watching the sunset paint the sky in hues of orange and pink",train_444.mp3
+" The old woman smiled as she rocked in her chair, the memories of a life well-lived playing out in her mind",train_445.mp3
+" The streets were busy with people rushing to and fro, their footsteps a constant rhythm on the pavement",train_446.mp3
+" He folded the letter carefully, placing it in the envelope with a sense of finality",train_447.mp3
+" The rain tapped lightly on the window, a soft melody that lulled her into a state of calm",train_448.mp3
+The cat jumped onto the windowsill and stared outside,train_450.mp3
+ I forgot to buy milk at the grocery store yesterday,train_451.mp3
+" The sun sets early in winter, making the days feel shorter",train_452.mp3
+ My friend just got a new bicycle and loves riding it around the neighborhood,train_453.mp3
+ I can’t believe how quickly this year has gone by,train_454.mp3
+" The dog chased its tail in circles, barking happily",train_455.mp3
+ She painted the walls of her room a bright yellow color,train_456.mp3
+" The cookies I baked turned out too crispy, but they still taste good",train_457.mp3
+ His backpack was heavy with books and school supplies,train_458.mp3
+ I always enjoy a good cup of coffee in the morning,train_459.mp3
+ We decided to take a trip to the beach next weekend,train_460.mp3
+ The flowers in the garden are starting to bloom,train_461.mp3
+ He forgot his umbrella and got soaked in the rain,train_462.mp3
+" My phone battery dies too quickly, and I need to replace it soon",train_463.mp3
+ The movie we watched last night was really funny,train_464.mp3
+ She likes to read mystery novels before bed,train_465.mp3
+ The playground was full of kids running and playing,train_466.mp3
+ I need to clean my room before the weekend,train_467.mp3
+ The pancakes at the diner were fluffy and delicious,train_468.mp3
+ His handwriting was neat and easy to read,train_469.mp3
+ The bird outside my window sings every morning,train_470.mp3
+" I couldn't find my keys anywhere, and I was late",train_471.mp3
+" The restaurant was crowded, but the food was worth the wait",train_472.mp3
+ She practices piano every day to get better,train_473.mp3
+ The ice cream truck played its familiar tune as it drove by,train_474.mp3
+ He built a model airplane from scratch and it actually flew,train_475.mp3
+" My favorite color is blue, but I like green too",train_476.mp3
+" We walked along the river, enjoying the cool breeze",train_477.mp3
+ I lost track of time while reading that book,train_478.mp3
+ She wore a new pair of shoes to the party,train_479.mp3
+ The clouds looked like cotton candy in the sky,train_480.mp3
+ He laughed at the silly joke his friend told him,train_481.mp3
+ The rain made the streets shine like mirrors,train_482.mp3
+ I accidentally spilled juice on the carpet,train_483.mp3
+ She loves collecting seashells from the beach,train_484.mp3
+ His new jacket has a lot of pockets,train_485.mp3
+ The alarm clock woke me up earlier than usual,train_486.mp3
+" The library was quiet and peaceful, perfect for studying",train_487.mp3
+ I saw a rainbow after the rain stopped,train_488.mp3
+ She took a picture of the sunset on her phone,train_489.mp3
+ The cereal box was almost empty this morning,train_490.mp3
+" He skipped stones across the lake, trying to beat his record",train_491.mp3
+ I can't wait to see the new movie coming out next week,train_492.mp3
+" The car engine made a strange noise, so I took it to the mechanic",train_493.mp3
+ She found a four-leaf clover in the park,train_494.mp3
+ The pizza delivery was faster than expected,train_495.mp3
+ His glasses fogged up when he walked inside,train_496.mp3
+ The cat curled up on the couch and fell asleep,train_497.mp3
+ The smell of fresh bread filled the kitchen,train_498.mp3
+ I need to remember to water the plants before they dry out,train_499.mp3
+ The little boy built a sandcastle by the shore,train_500.mp3
+ She practiced her dance routine over and over,train_501.mp3
+ The airplane took off smoothly into the clear blue sky,train_502.mp3
+ I could hear birds chirping in the distance,train_503.mp3
+ The sweater she knitted is warm and cozy,train_504.mp3
+ The snowflakes melted as soon as they touched the ground,train_505.mp3
+ He wrote his name in the sand with a stick,train_506.mp3
+ The bike ride through the park was refreshing,train_507.mp3
+ I have to finish my homework before dinner,train_508.mp3
+ The light in the room flickered for a moment,train_509.mp3
+ She added extra cheese to her sandwich,train_510.mp3
+ He made a wish when he blew out the birthday candles,train_511.mp3
+ The puppy wagged its tail when it saw its owner,train_512.mp3
+ The waves crashed against the rocks on the shore,train_513.mp3
+ I forgot to set my alarm last night and overslept,train_514.mp3
+ She organized her bookshelf by color and size,train_515.mp3
+ The sound of the wind in the trees was calming,train_516.mp3
+ He put his headphones on and listened to his favorite music,train_517.mp3
+ The bakery down the street sells the best muffins,train_518.mp3
+ I spent all afternoon cleaning the house,train_519.mp3
+ She wore a scarf because it was chilly outside,train_520.mp3
+ The fire in the fireplace crackled softly,train_521.mp3
+ His shoes were covered in mud after walking in the rain,train_522.mp3
+ I saw a squirrel running up a tree,train_523.mp3
+ She wrote a letter to her pen pal in another country,train_524.mp3
+" The coffee shop was busy, but I found a seat by the window",train_525.mp3
+ He made a paper airplane and threw it across the room,train_526.mp3
+" The sky was full of stars, shining brightly",train_527.mp3
+ I need to get a haircut before the weekend,train_528.mp3
+ The soup was hot and comforting on a cold day,train_529.mp3
+ She gave her friend a handmade bracelet,train_530.mp3
+ The leaves on the trees are starting to change color,train_531.mp3
+ I forgot to bring my lunch to work today,train_532.mp3
+ He wore a funny hat to the costume party,train_533.mp3
+ The guitar strings were old and needed replacing,train_534.mp3
+ The park was quiet except for the sound of the birds,train_535.mp3
+ She folded the laundry and put it away neatly,train_536.mp3
+ The ice melted in the glass as the drink sat on the table,train_537.mp3
+ I found an old photo album in the attic,train_538.mp3
+ The wind made the leaves rustle in the trees,train_539.mp3
+ She blew out the candles on her birthday cake,train_540.mp3
+ The flashlight flickered and then went out,train_541.mp3
+ He built a tower out of blocks and then knocked it over,train_542.mp3
+" I dropped my phone, but luckily it didn’t crack",train_543.mp3
+ She packed her suitcase for the weekend trip,train_544.mp3
+ The moon was bright in the night sky,train_545.mp3
+ He whistled a tune as he walked down the street,train_546.mp3
+ The grass was wet with dew in the early morning,train_547.mp3
+ She put on her favorite sweater and went outside,train_548.mp3
+ The car’s headlights lit up the dark road ahead,train_549.mp3
